@@ -11,8 +11,8 @@
 	</head>
 
 	<body>
-		<img id=“Dani 1” src=“gif/dani1.gif”>
-		<img id=“Dani 2” src=“gif/dani1.gif”>
+		<img id=“Dani1” src=“gif/gif/dani1.gif”>
+		<img id=“Dani2” src=“gif/gif/dani2.gif”>
 	</body>
 
 </html>
