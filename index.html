@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<meta charset=“utf-8”>
+		<title>GIF!</title>
+		<meta  name=“description” content=“Animated Gifs from Core Studio”>
+		<meta name = “author” content=“core”>
+		<meta name = “og:title” content=“GIF!”>
+		<meta name = “og:image” content=“”>
+		<meta name = “og:description” content=“Animated Gifs from Core Studio”>
+		<meta name = “og:site_name” content=“GIF!”>
+	</head>
+
+	<body>
+		<img id=“Dani 1” src=“gif/dani1.gif”>
+		<img id=“Dani 2” src=“gif/dani1.gif”>
+	</body>
+
+</html>
